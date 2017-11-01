@@ -1,0 +1,12 @@
+1 caixa sem desistência de clientes:
+	-> Quantidade de clientes na fila após horário de atendimento: 78
+	-> Clientes atendidos durante horário de atendimento: 87
+	-> Média de espera para ser atendido: 54 minutos
+
+1 caixa com desistência de clientes:
+	-> Quantidade de clientes na fila após horário de atendimento: 6
+	-> Clientes atendidos durante horário de atendimento: 75
+	-> Média de espera para ser atendido: 90 minutos
+	-> Quantidade de desistências: 117
+
+2 caixas com desistência de clientes:
